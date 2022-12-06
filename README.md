@@ -17,6 +17,8 @@ Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
 
 #### 2. Fundamental SQL Using SELECT Statement
 
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1WARQFT
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -26,6 +28,8 @@ Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
 
 ----
 #### 3. Fundamental SQL Using FUNCTION and GROUP BY
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2QSISKQ
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -37,6 +41,8 @@ Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
 ----
 #### 4. Fundamental SQL Using INNER JOIN and UNION
 
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LFIULI
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -46,6 +52,8 @@ Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
 
 ----
 #### 5. Fundamental SQL Group By and Having
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
 
 <details>
 <summary markdown="span">Certificate</summary>
