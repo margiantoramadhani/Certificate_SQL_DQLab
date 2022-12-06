@@ -4,6 +4,8 @@
 
 #### 1. Fundamental SQL with SELECT Statement
 
+Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
+
 <details>
 <summary markdown="span">Certificate</summary>
 
