@@ -6,6 +6,14 @@
 
 Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
 
+Materi yang dipelajari :
+> Sistem Database Relasional </br>
+SQL dan perintah SELECT </br>
+Menentukan Kolom dan Jumlah Baris Yang Ditampilkan </br>
+Prefix dan Alias </br>
+Menggunakan Filter </br>
+Penutup
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -19,6 +27,14 @@ Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1WARQFT
 
+Materi yang dipelajari :
+>Structured Query Language</br>
+Sistem Database Relasional</br>
+Penggunaan Perintah SELECT… FROM…</br>
+Prefix dan Alias</br>
+Menggunakan Filter</br>
+Mini Project
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -30,6 +46,12 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1WARQFT
 #### 3. Fundamental SQL Using FUNCTION and GROUP BY
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2QSISKQ
+
+Materi yang dipelajari :
+>Fungsi di SQL</br>
+Fungsi Text di SQL</br>
+Fungsi Aggregate dan Group By</br>
+Mini Project
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -43,6 +65,12 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2QSISKQ
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LFIULI
 
+Materi yang dipelajari :
+>Penggabungan Tabel dari Relasi Kolom</br>
+INNER JOIN</br>
+UNION</br>
+Mini Project
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -54,6 +82,11 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LFIULI
 #### 5. Fundamental SQL Group By and Having
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
+
+Materi yang dipelajari :
+>Pendahuluan</br>
+Penggunaan Having</br>
+Penggunaan MAX, MIN dan AVG dalam Having
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -67,6 +100,9 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLTSQSKRQB
 
+Materi yang dipelajari :
+>Test SQL - MySQL Dialect
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -78,6 +114,12 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLTSQSKRQB
 #### 7. Project Data Analysis for Retail : Sales Performance Report
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJC4WETRIN
+
+Materi yang dipelajari :
+>Introduction</br>
+DQLab Store Overall Performance</br>
+DQLab Store Promotion Effectiveness and Efficiency</br>
+Customer Analytics
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -91,6 +133,13 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJC4WETRIN
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJ10LJRLLK
 
+Materi yang dipelajari :
+>Introduction</br>
+Pengenalan tabel</br>
+Bagaimana Pertumbuhan Penjualan Saat Ini</br>
+Customer Analytics</br>
+Penutup
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -103,6 +152,12 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJ10LJRLLK
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LIFDVV
 
+Materi yang dipelajari :
+>A. Pengantar</br>
+B. Data</br>
+C. Melengkapi SQL</br>
+D. Membuat SQL
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -114,6 +169,11 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LIFDVV
 #### 10. Fundamental SQL Group By and Having
 
 Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPFSQ2NBBCAC
+
+Materi yang dipelajari :
+>Pendahuluan</br>
+Let's deep dive</br>
+Penutup
 
 <details>
 <summary markdown="span">Certificate</summary>
