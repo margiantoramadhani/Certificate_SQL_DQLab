@@ -65,6 +65,8 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
 ----
 #### 6. Data Engineer Challenge with SQL
 
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLTSQSKRQB
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -74,6 +76,8 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
 
 ----
 #### 7. Project Data Analysis for Retail : Sales Performance Report
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJC4WETRIN
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -85,6 +89,8 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
 ----
 #### 8. Project Data Analysis for B2B Retail : Customer Analytics Report
 
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJ10LJRLLK
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -95,6 +101,8 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
 ----
 #### 9. Data Analysis for E-Commerce Challenge
 
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LIFDVV
+
 <details>
 <summary markdown="span">Certificate</summary>
 
@@ -104,6 +112,8 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
 
 ----
 #### 10. Fundamental SQL Group By and Having
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPFSQ2NBBCAC
 
 <details>
 <summary markdown="span">Certificate</summary>
