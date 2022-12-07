@@ -3,8 +3,8 @@
 ----
 
 #### 1. Fundamental SQL with SELECT Statement
-
-Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
+Level : Kelas Persiapan</br>
+Mentor : DQLab</br>
 
 Materi yang dipelajari :
 > Sistem Database Relasional </br>
@@ -13,6 +13,8 @@ Menentukan Kolom dan Jumlah Baris Yang Ditampilkan </br>
 Prefix dan Alias </br>
 Menggunakan Filter </br>
 Penutup
+
+Link: https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1SLBEHS
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -24,8 +26,8 @@ Penutup
 ----
 
 #### 2. Fundamental SQL Using SELECT Statement
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1WARQFT
+Level : Kelas Fundamental</br>
+Mentor : Trisna Yulia Junita</br>
 
 Materi yang dipelajari :
 >Structured Query Language</br>
@@ -34,6 +36,8 @@ Penggunaan Perintah SELECT… FROM…</br>
 Prefix dan Alias</br>
 Menggunakan Filter</br>
 Mini Project
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1WARQFT
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -44,14 +48,16 @@ Mini Project
 
 ----
 #### 3. Fundamental SQL Using FUNCTION and GROUP BY
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2QSISKQ
+Level : Kelas Fundamental</br>
+Mentor : Trisna Yulia Junita</br>
 
 Materi yang dipelajari :
 >Fungsi di SQL</br>
 Fungsi Text di SQL</br>
 Fungsi Aggregate dan Group By</br>
 Mini Project
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2QSISKQ
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -62,14 +68,16 @@ Mini Project
 
 ----
 #### 4. Fundamental SQL Using INNER JOIN and UNION
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LFIULI
+Level : Kelas Fundamental</br>
+Mentor : Trisna Yulia Junita</br>
 
 Materi yang dipelajari :
 >Penggabungan Tabel dari Relasi Kolom</br>
 INNER JOIN</br>
 UNION</br>
 Mini Project
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LFIULI
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -80,13 +88,15 @@ Mini Project
 
 ----
 #### 5. Fundamental SQL Group By and Having
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
+Level : Kelas Fundamental</br>
+Mentor : DQLab</br>
 
 Materi yang dipelajari :
 >Pendahuluan</br>
 Penggunaan Having</br>
 Penggunaan MAX, MIN dan AVG dalam Having
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABFSQL3MFRKFP
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -97,11 +107,13 @@ Penggunaan MAX, MIN dan AVG dalam Having
 
 ----
 #### 6. Data Engineer Challenge with SQL
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLTSQSKRQB
+Level : List of Projects</br>
+Mentor : Xeratic</br>
 
 Materi yang dipelajari :
 >Test SQL - MySQL Dialect
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLTSQSKRQB
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -112,14 +124,16 @@ Materi yang dipelajari :
 
 ----
 #### 7. Project Data Analysis for Retail : Sales Performance Report
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJC4WETRIN
+Level : List of Projects</br>
+Mentor : Nelda Ampulembang Parenta</br>
 
 Materi yang dipelajari :
 >Introduction</br>
 DQLab Store Overall Performance</br>
 DQLab Store Promotion Effectiveness and Efficiency</br>
 Customer Analytics
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJC4WETRIN
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -130,8 +144,8 @@ Customer Analytics
 
 ----
 #### 8. Project Data Analysis for B2B Retail : Customer Analytics Report
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJ10LJRLLK
+Level : List of Projects</br>
+Mentor : Trisna Yulia Junita</br>
 
 Materi yang dipelajari :
 >Introduction</br>
@@ -139,6 +153,8 @@ Pengenalan tabel</br>
 Bagaimana Pertumbuhan Penjualan Saat Ini</br>
 Customer Analytics</br>
 Penutup
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJ10LJRLLK
 
 <details>
 <summary markdown="span">Certificate</summary>
