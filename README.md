@@ -165,14 +165,16 @@ Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPRJ10LJRLLK
 
 ----
 #### 9. Data Analysis for E-Commerce Challenge
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LIFDVV
+Level : List of Projects</br>
+Mentor : DQLab</br>
 
 Materi yang dipelajari :
 >A. Pengantar</br>
 B. Data</br>
 C. Melengkapi SQL</br>
 D. Membuat SQL
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT2LIFDVV
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -183,13 +185,15 @@ D. Membuat SQL
 
 ----
 #### 10. Fundamental SQL Group By and Having
-
-Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPFSQ2NBBCAC
+Level : List of Projects</br>
+Mentor : Xeratic</br>
 
 Materi yang dipelajari :
 >Pendahuluan</br>
 Let's deep dive</br>
 Penutup
+
+Link : https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABPFSQ2NBBCAC
 
 <details>
 <summary markdown="span">Certificate</summary>
